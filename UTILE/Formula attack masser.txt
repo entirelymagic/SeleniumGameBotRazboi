@@ -1,0 +1,4 @@
+nr. Soldati + atkx3
+(29+54)x3 = 249
+masa = nr.sold*8 = max
+(29+2)*8 = 248
